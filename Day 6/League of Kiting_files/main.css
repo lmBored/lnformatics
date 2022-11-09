@@ -1,0 +1,24 @@
+body {
+    background: #000;
+    overflow: hidden;
+}
+
+.bg-dark {
+    background-color: #000 !important;
+}
+
+.bg-white {
+    background-color: #fff !important;
+}
+
+.block {
+    position: absolute;
+    border: 0;
+    width: 20%;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: flex-end;
+    
+}
